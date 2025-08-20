@@ -51,7 +51,7 @@ I'll update as soon as I solve the problems!!
 
 ---
 
-## 🤝 Contributions
+##  Contributions
 
 This is my personal learning journey, but improvements are welcome!  
 Found a better approach? Spot an optimization? Feel free to:
@@ -61,7 +61,7 @@ Found a better approach? Spot an optimization? Feel free to:
 
 ---
 
-## 💪 Motivation
+##  Motivation
 
 > "Code is like humor. When you have to explain it, it's bad." – Cory House
 
