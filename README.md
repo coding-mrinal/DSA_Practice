@@ -1,6 +1,6 @@
 <div align="center">
 
-#  DSA PlAyGrOuNd
+#  DsA PlAyGrOuNd
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![DSA](https://img.shields.io/badge/Focus-DSA-blue?style=for-the-badge)](#)
