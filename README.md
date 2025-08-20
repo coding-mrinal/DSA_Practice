@@ -13,7 +13,9 @@ I'll update as soon as I solve the problems!!
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,24&height=2&section=header&fontSize=0" width="100%"/>
+</div>
 
 ##  Features
 
@@ -22,9 +24,10 @@ I'll update as soon as I solve the problems!!
 -  **Optimized solutions** - Time & Space complexity focused
 -  **Live updates** - New problems added regularly
 
----
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=2&section=header&fontSize=0" width="100%"/> </div>
+
 <pre>
-##  Repository Structure
+  Repository Structure
 
 
  DSA-Practice/
@@ -38,18 +41,20 @@ I'll update as soon as I solve the problems!!
 └──  Patterns/            # Sliding window, two pointers, etc.
 
 </pre>
----
 
-## 🛠️ Tech Stack
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10,11,3&height=2&section=header&fontSize=0" width="100%"/>
+</div>
+
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,git,github,idea&theme=light" />
 </p>
 
-
-
-
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,1,3&height=2&section=header&fontSize=0" width="100%"/>
+</div>
 
 ##  Contributions
 
@@ -59,7 +64,9 @@ Found a better approach? Spot an optimization? Feel free to:
 - 🔧 Make your changes
 - 📫 Submit a PR
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,26,24&height=2&section=header&fontSize=0" width="100%"/>
+</div>
 
 ##  Motivation
 
@@ -68,9 +75,13 @@ Found a better approach? Spot an optimization? Feel free to:
 **Currently solving:** Daily LeetCode challenges  
 **Goal:** Master DSA fundamentals & ace technical interviews
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,27,6&height=2&section=header&fontSize=0" width="100%"/>
+</div>
 
 <div align="center">
+
+
 
 **⭐ Star this repo if you find it helpful!**
 
